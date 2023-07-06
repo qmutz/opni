@@ -1,4 +1,4 @@
-FROM golang:1.17
+FROM golang:bookworm
 
 ENV DOCKER_VERSION=20.10.5
 ENV TILT_VERSION=0.22.9
